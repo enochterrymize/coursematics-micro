@@ -5,7 +5,7 @@ export function TopNav({children}) {
   return (
     <nav>
       <Link href="/" className="flex">
-        Home
+        PROMPTSCHAT
       </Link>
       <section>{children}</section>
       <style jsx>
