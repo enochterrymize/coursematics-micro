@@ -1,44 +1,22 @@
 ---
-title: Get started with Email Markering
-description: How to get started with Markdoc Email Markering
+title: How To Use ChatGPT Build your Online Business
+description: How To Use ChatGPT Build your Online Business
 ---
 
-# Full Next.js example
+# How To Use ChatGPT Build your Online Business
 
-{% callout %}
-This is a full-featured boilerplate for a creating a documentation website using Markdoc and Next.js.
-{% /callout %}
+## 1. Fiction writing 
 
-## Setup
+###  Why use Fiction Prompts ?
+- To Start a new short story or novel
+- To practise writing in a new genre or writing style
+- To warm up at the beginning of a Writing session
 
-First, clone this repo and install the dependencies required:
+Use Case: Generate a story idea for a children novel 
 
-```bash
-npm install
-# or
-yarn install
+### Here's the prompt for you to input into ChatGPT and see the result:
+```json
+You're an expert in writing children novels.I need a unique and intriguing story idea for a children novel about how to promote kindness in the world Can you provide me with a compelling concept?”
 ```
+### Here's what the output from ChatGPT looks like:
 
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `index.md`. The page auto-updates as you edit the file.
-
-## Deploy
-
-The quickest way to deploy your own version of this boilerplate is by deploying it with [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com/) by clicking one of the buttons below.
-
-### Deploy with Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/markdoc/next.js-starter)
-
-### Deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markdoc/next.js-starter)
